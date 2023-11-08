@@ -1,0 +1,165 @@
+
+.blusa {
+    position: absolute;
+    flex-direction: column;
+    top: 1px;
+    align-items: center;
+   justify-content: flex-start;
+
+}
+
+
+.texto1 {
+
+     display: flex;
+     position: absolute;
+     align-items: normal;
+     left: 3%;
+     top: 8%;
+     line-height: 32px;    
+     font-size: 32px;
+     font-family: Luckiest Guy;
+     font-weight: 400;
+     word-wrap: break-word;
+    
+}
+
+.texto2 {
+  display: flex;
+  align-items: normal;
+  position: absolute;
+  text-align: justify;
+  left: 3%;
+  top: 22%;
+ color: white;
+ font-size: 16px;
+ font-family: Open Sans;
+ text-align: justify;
+ display: block;
+
+ word-wrap: break-word
+}
+
+.rectangle1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    position: absolute;
+    left: 3%;
+    top: 45%;
+    border-radius: 28px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.texto3 {
+
+  position: absolute;
+  left: 140px;
+  top: 47%;
+  transform: translate(-50,-50);
+  color: #23272A;
+  line-height:21.79px;
+ font-size: 16px;
+ font-family: Open Sans;
+ font-weight: 400;
+ word-wrap:break-word;
+  
+ 
+}
+
+.rectangle2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    position: absolute;
+    left: 3%;
+    top: 63%;
+    border-radius: 28px;
+
+}
+
+.texto4 {
+   position: absolute;
+   left: 210px;
+   top: 67%;
+   color: 333;
+   transform: translate(-50%,-50%);
+   line-height: 21.79px;
+   font-size: 16px;
+   font-family: Open Sans;
+   font-weight: 400;
+   word-wrap: break-word;
+}
+
+.layout {
+  position: absolute;
+   top: 450px;
+color: #23272A;
+ font-size: 24px;
+ font-family: Open Sans;
+ font-weight: 800;
+ word-wrap: break-word;
+
+}
+
+.seçao {
+position: absolute;
+ top: 1000px;
+ left: 1%;
+font-size: 24px;
+font-family: Open Sans;
+color: #23272A;
+ font-size: 24px;
+ font-family: Open Sans;
+ font-weight: 800;
+ word-wrap: break-word;
+ 
+}
+
+.image1 {
+position: absolute;
+  top: 1375px;
+  left: 2px;
+color: #23272A;
+ font-size: 24px;
+ font-family: Open Sans;
+ font-weight: 800;
+ word-wrap: break-word;
+}
+
+.image2 {
+  position: absolute;
+  top: 1900px;
+  left: 1%;
+  right: -1px;
+  color: #23272A;
+   margin-left: 1px;
+   font-size: 32px;
+   font-family: Luckiest Guy;
+   font-weight: 400;
+   word-wrap: break-word; 
+}
+  
+
+.image3 {
+ position: absolute;
+  top: 2480px;
+  left: 1%;
+  margin-left: 1px;
+  }
+
+.conteiner {
+  position: relative;
+  grid-column: 1;
+  margin-left: 5px;
+}
+
+
